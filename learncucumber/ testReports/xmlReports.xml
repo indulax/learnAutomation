@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.135561">
+<testcase classname="To learn background concept" name="Student joining medical college" time="0.132783">
+<system-out><![CDATA[Given Student finished primary education....................................passed
+Given Student finished secondary education..................................passed
+Given Student taken entrance exam...........................................passed
+When student cleared exam...................................................passed
+Then join to any medical college............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To learn background concept" name="Student joining engineering college" time="0.002778">
+<system-out><![CDATA[Given Student finished primary education....................................passed
+Given Student finished secondary education..................................passed
+Given Student attended entrance.............................................passed
+When student scores cut off.................................................passed
+Then join to any engineering college........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
